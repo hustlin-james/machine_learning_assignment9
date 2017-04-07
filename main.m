@@ -1,3 +1,2 @@
-svd_power('input_file',2,10)
 svd_power('input_file',4,100)
 
